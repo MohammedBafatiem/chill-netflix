@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'first-project';
+public Names :string[] = ['saab','vw','volvo','fox'];
+public showTable = false ;
 }
